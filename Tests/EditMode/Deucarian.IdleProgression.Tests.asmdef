@@ -1,0 +1,25 @@
+{
+  "name": "Deucarian.IdleProgression.Tests",
+  "rootNamespace": "Deucarian.IdleProgression.Tests",
+  "references": [
+    "Deucarian.IdleProgression",
+    "Deucarian.Progression",
+    "Deucarian.GameplayFoundation"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": false,
+  "defineConstraints": [
+    "UNITY_INCLUDE_TESTS"
+  ],
+  "versionDefines": [],
+  "optionalUnityReferences": [
+    "TestAssemblies"
+  ],
+  "noEngineReferences": false
+}

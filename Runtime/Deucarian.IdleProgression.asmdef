@@ -1,0 +1,17 @@
+{
+  "name": "Deucarian.IdleProgression",
+  "rootNamespace": "Deucarian.IdleProgression",
+  "references": [
+    "Deucarian.GameplayFoundation",
+    "Deucarian.Progression"
+  ],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": true
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Deucarian.IdleProgression.OfflineRewardExample",
+  "rootNamespace": "Deucarian.IdleProgression.Samples",
+  "references": [
+    "Deucarian.IdleProgression",
+    "Deucarian.Progression"
+  ],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": true
+}

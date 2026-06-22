@@ -1,0 +1,22 @@
+{
+  "name": "com.deucarian.idle-progression",
+  "version": "0.1.0",
+  "displayName": "Deucarian Idle Progression",
+  "description": "Pure C# idle/offline progression elapsed-time, capped catch-up, cycle rewards, and Progression reward-bundle calculation.",
+  "unity": "6000.3",
+  "author": {
+    "name": "Deucarian"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "com.deucarian.gameplay-foundation": "0.1.0",
+    "com.deucarian.progression": "0.1.0"
+  },
+  "samples": [
+    {
+      "displayName": "Offline Reward Example",
+      "description": "Small pure C# example that calculates one capped offline reward bundle.",
+      "path": "Samples~/OfflineRewardExample"
+    }
+  ]
+}
