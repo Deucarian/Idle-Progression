@@ -1,0 +1,23 @@
+{
+  "packageId": "com.deucarian.idle-progression",
+  "displayName": "Deucarian Idle Progression",
+  "ownedCapabilities": [],
+  "runtimeAssemblies": [
+    "Deucarian.IdleProgression"
+  ],
+  "editorAssemblies": [],
+  "sampleAssemblies": [
+    "Deucarian.IdleProgression.OfflineRewardExample"
+  ],
+  "testAssemblies": [
+    "Deucarian.IdleProgression.Tests"
+  ],
+  "requiredDependencies": [
+    "com.deucarian.gameplay-foundation",
+    "com.deucarian.progression"
+  ],
+  "optionalVersionDefinedDependencies": [],
+  "allowedDirectDebugCalls": [],
+  "allowedDirectUnityObjectLifetimeCalls": [],
+  "expectedSamplesRoot": "Samples~"
+}
