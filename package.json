@@ -1,6 +1,6 @@
 {
   "name": "com.deucarian.idle-progression",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "displayName": "Deucarian Idle Progression",
   "description": "Pure C# idle/offline progression elapsed-time, capped catch-up, cycle rewards, and Progression reward-bundle calculation.",
   "unity": "6000.3",
@@ -13,8 +13,8 @@
   },
   "license": "MIT",
   "dependencies": {
-    "com.deucarian.gameplay-foundation": "0.1.0",
-    "com.deucarian.progression": "0.1.0"
+    "com.deucarian.gameplay-foundation": "0.1.1",
+    "com.deucarian.progression": "0.1.1"
   },
   "samples": [
     {
