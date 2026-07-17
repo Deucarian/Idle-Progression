@@ -1,6 +1,7 @@
 {
   "packageId": "com.deucarian.idle-progression",
   "displayName": "Deucarian Idle Progression",
+  "samplePolicy": "compiled-example",
   "ownedCapabilities": [],
   "runtimeAssemblies": [
     "Deucarian.IdleProgression"
